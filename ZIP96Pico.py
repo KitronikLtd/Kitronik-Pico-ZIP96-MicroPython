@@ -8,11 +8,6 @@ from time import sleep, sleep_ms, sleep_us, ticks_ms, ticks_us
 Class for the Pico 96 LED retro gamer.    
 '''
 
-# Initialise the module with all outputs off
-# Buzzer
-buzzer = PWM(Pin(2))
-buzzer.duty_u16(0)
-
 # List of which StateMachines we have used
 usedSM = [False, False, False, False, False, False, False, False]
 

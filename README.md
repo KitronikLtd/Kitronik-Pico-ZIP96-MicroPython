@@ -8,7 +8,7 @@ Also in this repo are some games in the `Games` folder which we have been create
 
 These games include Snake written in MicroPython, and Run Along, Jump & Jump written in C.
 
-We have also added a folder called `A-Mazing Game Lesson Plans` which contains a complete set of lesson plans for creating our A-Mazing Game for the ZIP96 Pico.
+We have also added a folder called `A-Mazing Game Lesson Plans` which contains a complete set of lesson plans for creating our A-Mazing Game in MicroPython for the ZIP96 Pico.
 
 Below is a table to help you get started with each of these games. For the Run Along, Jump & Jump two player wireless version you will need two Kitronik ZIP96 Retro Gamers and two Raspberry Pi Pico Ws.
 
@@ -16,7 +16,7 @@ Game | Language | Files needed
 -|-|-
 Snake | MicroPython | <ul><li>Snake.py</li><li>ZIP96Pico.py</li></ul>
 A-Mazing Game | MicroPython | <ul><li>A-Mazing Game folder</li><li>ZIP96Pico.py</li></ul>
-Run Along, Jump & Jump | C | The full `Run Along, Jump & Jump - C Game` folder
+Run Along, Jump & Jump | C | [The Kitronik-Pico-ZIP96-C repo](https://github.com/KitronikLtd/Kitronik-Pico-ZIP96-C)
 <br/>
 
 # How to use the ZIP96 for Pico
